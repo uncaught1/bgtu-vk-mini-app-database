@@ -1,5 +1,5 @@
 {
-	"lastUpdate": "2024-03-27T11:37:22.515Z",
+	"lastUpdate": "2024-04-01T13:47:01.547Z",
 	"employees": [
 		{
 			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/cd2/232_290_1/fedonin.jpg",
@@ -762,16 +762,6 @@
 			"faculty": "Факультет отраслевой и цифровой экономики",
 			"department": "Цифровая экономика",
 			"qualification": "1. Инженер-строитель; 2. Экономист"
-		},
-		{
-			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/468/232_290_1/Gorbunov_AN.jpg",
-			"name": "Горбунов Александр Николаевич",
-			"post": "Доцент",
-			"phone": "(4832) 56-09-84",
-			"email": "angor47@yandex.ru",
-			"faculty": "Факультет информационных технологий",
-			"department": "Информатика и программное обеспечение",
-			"qualification": "Радиоинженер"
 		},
 		{
 			"photo": "https://www.tu-bryansk.ru/upload/main/a0f/gorlao.jpg",
