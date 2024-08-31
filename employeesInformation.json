@@ -1,5 +1,5 @@
 {
-	"lastUpdate": "2024-08-25T13:01:28.081Z",
+	"lastUpdate": "2024-08-31T16:21:52.057Z",
 	"employees": [
 		{
 			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/cd2/232_290_1/fedonin.jpg",
@@ -108,16 +108,6 @@
 			"faculty": "Факультет информационных технологий",
 			"department": "Компьютерные технологии и системы",
 			"qualification": "Инженер-механик"
-		},
-		{
-			"photo": "https://www.tu-bryansk.ru/upload/main/f09/averchenkova.jpg",
-			"name": "Аверченкова Елена Эдуардовна",
-			"post": "Доцент",
-			"phone": "(4832) 58-82-76",
-			"email": "lena_ki@inbox.ru",
-			"faculty": "Факультет отраслевой и цифровой экономики",
-			"department": "Цифровая экономика",
-			"qualification": "1.Экономист-менеджер; 2.Магистр"
 		},
 		{
 			"photo": "https://www.tu-bryansk.ru/upload/main/547/ageenko.jpg",
@@ -675,7 +665,7 @@
 			"email": "anton.ru.com@icloud.com",
 			"faculty": "Механико-технологический факультет",
 			"department": "Физическое воспитание и спорт",
-			"qualification": "Бакалавр"
+			"qualification": "Бакалавр; магистр"
 		},
 		{
 			"photo": "",
@@ -1183,6 +1173,16 @@
 			"qualification": "1.Инженер; Менеджер"
 		},
 		{
+			"photo": "",
+			"name": "Капустина Наталья Николаевна",
+			"post": "Доцент",
+			"phone": "-",
+			"email": "lnn@inbox.ru",
+			"faculty": "Факультет информационных технологий",
+			"department": "Информатика и программное обеспечение",
+			"qualification": "1.Учитель математики и информатики; 1.Юрист"
+		},
+		{
 			"photo": "https://www.tu-bryansk.ru/upload/main/5d2/kareva.jpg",
 			"name": "Карева Галина Вячеславовна",
 			"post": "Доцент",
@@ -1240,15 +1240,6 @@
 			"faculty": "Факультет энергетики и электроники",
 			"department": "Турбиностроение, электро- и теплоэнергетика",
 			"qualification": "Инженер-механик"
-		},
-		{
-			"photo": "",
-			"name": "Клещевникова Ирина Константиновна",
-			"post": "Преподаватель",
-			"phone": "-",
-			"email": "irishka8dina8@yandex.ru",
-			"department": "Политехнический колледж",
-			"qualification": "Бакалавр"
 		},
 		{
 			"photo": "https://www.tu-bryansk.ru/upload/main/83c/kobzev.jpg",
@@ -1409,6 +1400,16 @@
 		},
 		{
 			"photo": "",
+			"name": "Кулешов Дмитрий Юрьевич",
+			"post": "Старший преподаватель",
+			"phone": "(4832) 58-83-23",
+			"email": "ditrich.87@mail.ru",
+			"faculty": "Учебно-научный институт транспорта",
+			"department": "Наземные транспортно-технологические комплексы",
+			"qualification": "1. Инженер; 2. Магистр техники и технологии"
+		},
+		{
+			"photo": "",
 			"name": "Кульченков Евгений Александрович",
 			"post": "Старший преподаватель, научный сотрудник",
 			"phone": "(4832) 58-82-27",
@@ -1444,26 +1445,6 @@
 			"faculty": "Факультет отраслевой и цифровой экономики",
 			"department": "Иностранные языки",
 			"qualification": "Учитель немецкого и английского языков"
-		},
-		{
-			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/7d4/232_290_1/Lagerev_DG.jpg",
-			"name": "Лагерев Дмитрий Григорьевич",
-			"post": "Доцент",
-			"phone": "(4832) 56-09-84",
-			"email": "LagerevDG@yandex.ru",
-			"faculty": "Факультет информационных технологий",
-			"department": "Информатика и программное обеспечение",
-			"qualification": "Инженер"
-		},
-		{
-			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/b35/232_290_1/lagerevanv.jpg",
-			"name": "Лагерева Наталья Валерьевна",
-			"post": "Ассистент",
-			"phone": "(4832) 58-82-17",
-			"email": "LagerevaNV@gmail.com",
-			"faculty": "Факультет информационных технологий",
-			"department": "Информатика и программное обеспечение",
-			"qualification": "1. Инженер; 2. Магистр техники и технологии"
 		},
 		{
 			"photo": "https://www.tu-bryansk.ru/upload/main/fd1/lagutina.jpg",
@@ -1803,16 +1784,6 @@
 		},
 		{
 			"photo": "",
-			"name": "Михальцов Алексей Иванович",
-			"post": "Ассистент",
-			"phone": "-",
-			"email": "michalcow99@mail.ru",
-			"faculty": "Учебно-научный институт транспорта",
-			"department": "Наземные транспортно-технологические комплексы",
-			"qualification": "Инженер"
-		},
-		{
-			"photo": "",
 			"name": "Мишина Марина Вадимовна",
 			"post": "Преподаватель",
 			"phone": "-",
@@ -2124,7 +2095,7 @@
 			"email": "makspodsvir@gmail.com",
 			"faculty": "Механико-технологический факультет",
 			"department": "Физическое воспитание и спорт",
-			"qualification": "Бакалавр"
+			"qualification": "Бакалавр; магистр"
 		},
 		{
 			"photo": "https://www.tu-bryansk.ru/upload/main/2a8/polzik.jpg",
@@ -2174,15 +2145,6 @@
 			"faculty": "Управление цифровизации",
 			"department": "Отдел АСУ-ВУЗ",
 			"qualification": "Инженер-механик исследователь"
-		},
-		{
-			"photo": "",
-			"name": "Приходько Юрий Владимирович",
-			"post": "Преподаватель",
-			"phone": "(4832) 51-58-97",
-			"email": "juriprikhodko@mail.ru",
-			"department": "Политехнический колледж",
-			"qualification": "Математик"
 		},
 		{
 			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/a2d/232_290_1/prokofiev.jpg",
@@ -2331,16 +2293,6 @@
 			"faculty": "Факультет информационных технологий",
 			"department": "Компьютерные технологии и системы",
 			"qualification": "Инженер"
-		},
-		{
-			"photo": "",
-			"name": "Сак Валентина Анатольевна",
-			"post": "Ассистент",
-			"phone": "-",
-			"email": "sak@umlab.ru",
-			"faculty": "Учебно-научный институт транспорта",
-			"department": "Подвижной состав железных дорог",
-			"qualification": "Бакалавр, магистр"
 		},
 		{
 			"photo": "",
@@ -2654,15 +2606,6 @@
 		},
 		{
 			"photo": "",
-			"name": "Темнова Виктория Владимировна",
-			"post": "Преподаватель",
-			"phone": "(4832) 51-58-97",
-			"email": "VictoryKinder@yandex.ru",
-			"department": "Политехнический колледж",
-			"qualification": "Бакалавр"
-		},
-		{
-			"photo": "",
 			"name": "Терехов Максим Владимирович",
 			"post": "Врио заведующего кафедрой, доцент",
 			"phone": "(4832) 58-82-06",
@@ -2950,16 +2893,6 @@
 			"qualification": "Инженер-электромеханик"
 		},
 		{
-			"photo": "",
-			"name": "Ходус Кирилл Сергеевич",
-			"post": "Ассистент",
-			"phone": "-",
-			"email": "kiry.imperator@gmail.com",
-			"faculty": "Факультет информационных технологий",
-			"department": "Компьютерные технологии и системы",
-			"qualification": "Бакалавр, магистр"
-		},
-		{
 			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/7ef/232_290_1/сканирование0003.jpg",
 			"name": "Хохлова Марина Витальевна",
 			"post": "Заведующий кафедрой, профессор",
@@ -3009,16 +2942,6 @@
 			"qualification": "Инженер"
 		},
 		{
-			"photo": "https://www.tu-bryansk.ru/upload/main/c57/Чмыхова Г.П. Chmyhova.jpg",
-			"name": "Чмыхова Галина Павловна",
-			"post": "Доцент",
-			"phone": "(4832) 58-82-28",
-			"email": "galina.bass@gmail.com",
-			"faculty": "Факультет отраслевой и цифровой экономики",
-			"department": "Иностранные языки",
-			"qualification": "Учитель английского и немецкого языков"
-		},
-		{
 			"photo": "",
 			"name": "Чуприна Николай Валентинович",
 			"post": "Ассистент",
@@ -3029,16 +2952,6 @@
 			"qualification": "Бакалавр, магистр"
 		},
 		{
-			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/0d4/232_290_1/Shalimov_PIu.jpg",
-			"name": "Шалимов Петр Юрьевич",
-			"post": "Доцент",
-			"phone": "(4832) 58-82-17",
-			"email": "shalimov.petr@gmail.com",
-			"faculty": "Факультет информационных технологий",
-			"department": "Информатика и программное обеспечение",
-			"qualification": "Инженер-механик исследователь"
-		},
-		{
 			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/b23/232_290_1/IMG_7927.jpg",
 			"name": "Шалыгин Михаил Геннадьевич",
 			"post": "Заведующий кафедрой, профессор",
@@ -3047,16 +2960,6 @@
 			"faculty": "Учебно-научный институт транспорта",
 			"department": "Трубопроводные транспортные системы",
 			"qualification": "Инженер"
-		},
-		{
-			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/253/232_290_1/Фото_Швырков.png",
-			"name": "Швырков Александр Иванович",
-			"post": "Доцент",
-			"phone": "(4832) 58-82-67",
-			"email": "aishvyrkov@rambler.ru",
-			"faculty": "Факультет отраслевой и цифровой экономики",
-			"department": "Гуманитарные и социальные дисциплины",
-			"qualification": "Инженер-математик"
 		},
 		{
 			"photo": "https://www.tu-bryansk.ru/upload/main/140/shvyryaev.jpg",
