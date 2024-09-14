@@ -1,5 +1,5 @@
 {
-	"lastUpdate": "2024-09-11T16:43:04.753Z",
+	"lastUpdate": "2024-09-14T17:56:46.704Z",
 	"employees": [
 		{
 			"photo": "",
@@ -41,7 +41,7 @@
 			"qualification": "Инженер"
 		},
 		{
-			"photo": "",
+			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/d7e/a9q5svvkybickgcfk46c34sttj3keuuh/232_290_1/photo_2024-09-13_12-40-26.jpg",
 			"name": "Азаркин Александр Александрович",
 			"post": "Преподаватель",
 			"phone": "(4832) 51-58-97",
@@ -3100,6 +3100,16 @@
 			"faculty": "Факультет энергетики и электроники",
 			"department": "Турбиностроение, электро- и теплоэнергетика",
 			"qualification": "Инженер-электромеханик"
+		},
+		{
+			"photo": "",
+			"name": "Холшевникова Оксана Александровна",
+			"post": "Ассистент",
+			"phone": "(4832) 58-82-16",
+			"email": "ksenia03333@gmail.com",
+			"faculty": "Факультет информационных технологий",
+			"department": "Высшая математика",
+			"qualification": "Бакалавр, магистр"
 		},
 		{
 			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/7ef/232_290_1/сканирование0003.jpg",
