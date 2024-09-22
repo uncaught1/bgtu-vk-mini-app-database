@@ -1,5 +1,5 @@
 {
-	"lastUpdate": "2024-09-18T15:34:41.939Z",
+	"lastUpdate": "2024-09-22T08:32:42.755Z",
 	"employees": [
 		{
 			"photo": "",
@@ -603,6 +603,16 @@
 			"post": "Проректор по качеству и аккредитации, профессор",
 			"phone": "(4832) 58-80-06",
 			"email": "gerash-tatyana@yandex.ru",
+			"faculty": "Факультет отраслевой и цифровой экономики",
+			"department": "Цифровая экономика",
+			"qualification": "Экономист"
+		},
+		{
+			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/e90/232_290_1/GlushakNV.jpg",
+			"name": "Глушак Николай Владимирович",
+			"post": "Профессор",
+			"phone": "-",
+			"email": "gnw3@yandex.ru",
 			"faculty": "Факультет отраслевой и цифровой экономики",
 			"department": "Цифровая экономика",
 			"qualification": "Экономист"
@@ -2438,16 +2448,6 @@
 			"faculty": "Учебно-научный институт транспорта",
 			"department": "Наземные транспортно-технологические комплексы",
 			"qualification": "Инженер-механик исследователь"
-		},
-		{
-			"photo": "https://www.tu-bryansk.ru/upload/main/bfe/sakalo.jpg",
-			"name": "Сакало Владимир Иванович",
-			"post": "Профессор",
-			"phone": "(4832) 58-86-37",
-			"email": "SakaloVI.BSTU@ya.ru",
-			"faculty": "Учебно-научный институт транспорта",
-			"department": "Наземные транспортно-технологические комплексы",
-			"qualification": "Инженер-механик"
 		},
 		{
 			"photo": "https://www.tu-bryansk.ru/upload/main/76e/salimon.jpg",
