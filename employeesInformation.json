@@ -1,5 +1,5 @@
 {
-	"lastUpdate": "2024-10-02T13:54:56.175Z",
+	"lastUpdate": "2024-10-06T14:56:29.273Z",
 	"employees": [
 		{
 			"photo": "",
@@ -1755,7 +1755,7 @@
 		{
 			"photo": "https://www.tu-bryansk.ru/upload/main/648/manueva.jpg",
 			"name": "Мануева Марина Владимировна",
-			"post": "Доцент",
+			"post": "Доцент, начальник отдела сопровождения системы менеджмента качества",
 			"phone": "(4832) 56-02-61",
 			"email": "mari_s@mail.ru",
 			"faculty": "Учебно-научный институт транспорта",
@@ -3410,16 +3410,6 @@
 		{
 			"photo": "",
 			"name": "Язвенко Николай Александрович",
-			"post": "Ассистент",
-			"phone": "-",
-			"email": "nikolayyazvenko@mail.ru",
-			"faculty": "Факультет отраслевой и цифровой экономики",
-			"department": "Цифровая экономика",
-			"qualification": "Магистр"
-		},
-		{
-			"photo": "",
-			"name": "Ященко Артем Дмитриевич",
 			"post": "Ассистент",
 			"phone": "(4832) 58-80-06",
 			"email": "gerash-tatyana@yandex.ru",
