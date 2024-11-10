@@ -1,5 +1,5 @@
 {
-	"lastUpdate": "2024-11-06T15:28:55.957Z",
+	"lastUpdate": "2024-11-10T16:19:30.414Z",
 	"employees": [
 		{
 			"photo": "",
@@ -2885,7 +2885,7 @@
 			"qualification": "Бакалавр"
 		},
 		{
-			"photo": "",
+			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/768/vic2n0qkwhsyaqflbes5h33ap2e9julc/232_290_1/MAX_6522.jpg",
 			"name": "Терехов Максим Владимирович",
 			"post": "Заведующий кафедрой, доцент",
 			"phone": "(4832) 58-82-06",
