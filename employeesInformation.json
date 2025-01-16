@@ -1,5 +1,5 @@
 {
-	"lastUpdate": "2025-01-12T14:42:35.252Z",
+	"lastUpdate": "2025-01-16T17:22:26.318Z",
 	"employees": [
 		{
 			"photo": "",
@@ -622,16 +622,6 @@
 			"post": "Проректор по качеству и аккредитации, профессор",
 			"phone": "(4832) 58-80-06",
 			"email": "gerash-tatyana@yandex.ru",
-			"faculty": "Факультет отраслевой и цифровой экономики",
-			"department": "Цифровая экономика",
-			"qualification": "Экономист"
-		},
-		{
-			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/e90/232_290_1/GlushakNV.jpg",
-			"name": "Глушак Николай Владимирович",
-			"post": "Профессор",
-			"phone": "-",
-			"email": "gnw3@yandex.ru",
 			"faculty": "Факультет отраслевой и цифровой экономики",
 			"department": "Цифровая экономика",
 			"qualification": "Экономист"
