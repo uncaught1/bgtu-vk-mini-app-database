@@ -1,5 +1,5 @@
 {
-	"lastUpdate": "2025-02-02T12:39:03.360Z",
+	"lastUpdate": "2025-02-05T14:13:01.633Z",
 	"employees": [
 		{
 			"photo": "",
@@ -41,6 +41,15 @@
 			"qualification": "Инженер"
 		},
 		{
+			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/d7e/a9q5svvkybickgcfk46c34sttj3keuuh/232_290_1/photo_2024-09-13_12-40-26.jpg",
+			"name": "Азаркин Александр Александрович",
+			"post": "Преподаватель",
+			"phone": "(4832) 51-58-97",
+			"email": "jarret@mail.ru",
+			"department": "Политехнический колледж",
+			"qualification": "Инженер"
+		},
+		{
 			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/ffe/232_290_1/Фото Азаркиной Л.Г..jpg",
 			"name": "Азаркина Любовь Григорьевна",
 			"post": "Заместитель директора по научно-методической работе, преподаватель",
@@ -58,6 +67,16 @@
 			"faculty": "Факультет информационных технологий",
 			"department": "Информатика и программное обеспечение",
 			"qualification": "Инженер по специальности \"Вагоны\""
+		},
+		{
+			"photo": "https://www.tu-bryansk.ru/upload/main/efd/alduhov.jpg",
+			"name": "Алдюхов Владимир Александрович",
+			"post": "Доцент",
+			"phone": "(4832) 58-86-37",
+			"email": "AlduhovVA.BSTU@ya.ru",
+			"faculty": "Учебно-научный институт транспорта",
+			"department": "Производство и сервис в транспортном машиностроении",
+			"qualification": "Инженер-механик исследователь"
 		},
 		{
 			"photo": "https://www.tu-bryansk.ru/upload/main/417/aleynikova.jpg",
@@ -93,7 +112,8 @@
 			"post": "Профессор",
 			"phone": "(4832) 58-82-33",
 			"email": "ahaos@mail.ru",
-			"department": "-",
+			"faculty": "Факультет энергетики и электроники",
+			"department": "Электронные, радиоэлектронные и электротехнические системы",
 			"qualification": "Инженер"
 		},
 		{
@@ -356,8 +376,19 @@
 			"post": "Доцент",
 			"phone": "(4832) 58-82-33",
 			"email": "bor_03@inbox.ru",
-			"department": "-",
+			"faculty": "Факультет энергетики и электроники",
+			"department": "Электронные, радиоэлектронные и электротехнические системы",
 			"qualification": "Учитель биологии и химии"
+		},
+		{
+			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/ca3/232_290_1/brundasov.jpg",
+			"name": "Брундасов Сергей Михайлович",
+			"post": "Доцент",
+			"phone": "8-952-966-49-78",
+			"email": "brundasov@yandex.ru",
+			"faculty": "Факультет информационных технологий",
+			"department": "Информатика и программное обеспечение",
+			"qualification": "Инженер"
 		},
 		{
 			"photo": "https://www.tu-bryansk.ru/upload/main/058/bryleva.jpg",
@@ -415,8 +446,18 @@
 			"post": "Доцент",
 			"phone": "-",
 			"email": "igorbutarev@gmail.com",
-			"department": "-",
+			"faculty": "Факультет энергетики и электроники",
+			"department": "Электронные, радиоэлектронные и электротехнические системы",
 			"qualification": "Инженер"
+		},
+		{
+			"photo": "",
+			"name": "Бухтеева Ольга Алексеевна",
+			"post": "Преподаватель",
+			"phone": "(4832) 51-58-97",
+			"email": "ahistrahia1@yandex.ru",
+			"department": "Политехнический колледж",
+			"qualification": "Учитель русского языка и литературы"
 		},
 		{
 			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/668/232_290_1/Быкова И В.JPG",
@@ -483,7 +524,8 @@
 			"post": "Доцент",
 			"phone": "(4832) 58-82-33",
 			"email": "wai_mail@mail.ru",
-			"department": "-",
+			"faculty": "Факультет энергетики и электроники",
+			"department": "Электронные, радиоэлектронные и электротехнические системы",
 			"qualification": "Инженер"
 		},
 		{
@@ -545,6 +587,16 @@
 			"qualification": "Инженер-механик"
 		},
 		{
+			"photo": "",
+			"name": "Галушко Дмитрий Вячеславович",
+			"post": "Доцент",
+			"phone": "(4832) 58-84-04",
+			"email": "yurist2@bryanskoblfin.ru",
+			"faculty": "Факультет отраслевой и цифровой экономики",
+			"department": "Отраслевая экономика и управление",
+			"qualification": "1. Экономист; 2. Юрист"
+		},
+		{
 			"photo": "https://www.tu-bryansk.ru/upload/main/922/garb.jpg",
 			"name": "Гарбузова Галина Владимировна",
 			"post": "Доцент",
@@ -553,6 +605,16 @@
 			"faculty": "Факультет отраслевой и цифровой экономики",
 			"department": "Гуманитарные и социальные дисциплины",
 			"qualification": "Инженер-механик"
+		},
+		{
+			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/550/232_290_1/Гегерь 11.jpg",
+			"name": "Гегерь Эмилия Владимировна",
+			"post": "Профессор",
+			"phone": "(4832) 58-82-34",
+			"email": "emiliay_geger@mail.ru",
+			"faculty": "Механико-технологический факультет",
+			"department": "Техносферная безопасность",
+			"qualification": "Инженер-строитель"
 		},
 		{
 			"photo": "https://www.tu-bryansk.ru/upload/main/6e1/geraschenkova.jpg",
@@ -691,6 +753,16 @@
 			"qualification": "Экономист по бухгалтерскому учету и финансам"
 		},
 		{
+			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/fda/px4hs2wrrfi43xiyijohihnyxtvt2cwp/232_290_1/Громов.JPG",
+			"name": "Громов Юрий Юрьевич",
+			"post": "Профессор",
+			"phone": "(4832) 58-83-54",
+			"email": "gromovtambov@yandex.ru",
+			"faculty": "Факультет информационных технологий",
+			"department": "Системы информационной безопасности",
+			"qualification": "инженер по автоматизации"
+		},
+		{
 			"photo": "https://www.tu-bryansk.ru/upload/main/da7/gryadunov.jpg",
 			"name": "Грядунов Сергей Семенович",
 			"post": "Доцент",
@@ -711,6 +783,15 @@
 			"qualification": "Учитель физической культуры"
 		},
 		{
+			"photo": "",
+			"name": "Гузеев Андрей Николаевич",
+			"post": "Преподаватель",
+			"phone": "(4832) 51-58-97",
+			"email": "370343@list.ru",
+			"department": "Политехнический колледж",
+			"qualification": "Инженер"
+		},
+		{
 			"photo": "https://www.tu-bryansk.ru/upload/main/7ce/gulak.jpg",
 			"name": "Гулак Максим Леонидович",
 			"post": "Доцент",
@@ -729,6 +810,16 @@
 			"faculty": "Факультет информационных технологий",
 			"department": "Информатика и программное обеспечение",
 			"qualification": "Инженер"
+		},
+		{
+			"photo": "",
+			"name": "Гуров Роман Владимирович",
+			"post": "Профессор",
+			"phone": "(4832) 58-82-89",
+			"email": "gurovmsi@mail.ru",
+			"faculty": "Учебно-научный технологический институт",
+			"department": "Металлорежущие станки и инструменты",
+			"qualification": "Инженер-механик"
 		},
 		{
 			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/2fa/232_290_1/dadykin.jpg",
@@ -812,6 +903,16 @@
 		},
 		{
 			"photo": "",
+			"name": "Добровольский Герман Игоревич",
+			"post": "Доцент",
+			"phone": "(4832) 58-82-89",
+			"email": "germanmsi@mail.ru",
+			"faculty": "Учебно-научный технологический институт",
+			"department": "Металлорежущие станки и инструменты",
+			"qualification": "Инженер-механик"
+		},
+		{
+			"photo": "",
 			"name": "Дорошенков Андрей Николаевич",
 			"post": "Ассистент",
 			"phone": "(4832) 58-82-32",
@@ -872,6 +973,16 @@
 		},
 		{
 			"photo": "",
+			"name": "Жигало Владимир Яковлевич",
+			"post": "Доцент",
+			"phone": "-",
+			"email": "zhigalo@icloud.com",
+			"faculty": "Механико-технологический факультет",
+			"department": "Физическое воспитание и спорт",
+			"qualification": "Преподаватель физического воспитания"
+		},
+		{
+			"photo": "",
 			"name": "Жиров Павел Дмитриевич",
 			"post": "Доцент",
 			"phone": "(4832) 56-86-37",
@@ -909,6 +1020,16 @@
 			"faculty": "Учебно-научный технологический институт",
 			"department": "Металлорежущие станки и инструменты",
 			"qualification": "Инженер-механик"
+		},
+		{
+			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/509/232_290_1/Захаров_2018.jpg",
+			"name": "Захаров Александр Евгеньевич",
+			"post": "Доцент",
+			"phone": "(4832) 58-82-85",
+			"email": "1csoft@bk.ru",
+			"faculty": "Учебно-научный технологический институт",
+			"department": "Автоматизированные технологические системы",
+			"qualification": "Инженер-электромеханик"
 		},
 		{
 			"photo": "https://www.tu-bryansk.ru/upload/main/c2d/zaharova.jpg",
@@ -1075,7 +1196,8 @@
 			"post": "Доцент",
 			"phone": "(4832) 58-82-33",
 			"email": "kostya1968@mail.ru",
-			"department": "-",
+			"faculty": "Факультет энергетики и электроники",
+			"department": "Электронные, радиоэлектронные и электротехнические системы",
 			"qualification": "Инженер-электромеханик"
 		},
 		{
@@ -1129,6 +1251,16 @@
 			"qualification": "Преподаватель физической культуры, тренер по спорту"
 		},
 		{
+			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/20e/232_290_1/Кареев Р В.jpg",
+			"name": "Кареев Руслан Васильевич",
+			"post": "Доцент",
+			"phone": "(4832) 58-82-34",
+			"email": "kareev_r@mail.ru",
+			"faculty": "Механико-технологический факультет",
+			"department": "Техносферная безопасность",
+			"qualification": "Инженер-механик"
+		},
+		{
 			"photo": "https://www.tu-bryansk.ru/upload/main/d0a/kareevrr.jpg",
 			"name": "Кареев Руслан Русланович",
 			"post": "Доцент",
@@ -1177,6 +1309,16 @@
 			"qualification": "Инженер-механик"
 		},
 		{
+			"photo": "",
+			"name": "Кипень Ирина Степановна",
+			"post": "Доцент",
+			"phone": "-",
+			"email": "kipen69@mail.ru",
+			"faculty": "Факультет информационных технологий",
+			"department": "Высшая математика",
+			"qualification": "Учитель математики и информатики"
+		},
+		{
 			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/744/232_290_1/kirichek.jpg",
 			"name": "Киричек Андрей Викторович",
 			"post": "Главный научный сотрудник, Проректор по перспективному развитию",
@@ -1194,6 +1336,16 @@
 			"email": "dekanatfee@yandex.ru",
 			"faculty": "Учебно-научный институт транспорта",
 			"department": "Высокотехнологичное транспортное машиностроение",
+			"qualification": "Инженер-механик"
+		},
+		{
+			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/c80/232_290_1/Клепинин Борис Николаевич.jpg",
+			"name": "Клепинин Борис Николаевич",
+			"post": "Доцент",
+			"phone": "(4832) 58-82-35",
+			"email": "klepinin.boris@yandex.ru",
+			"faculty": "Механико-технологический факультет",
+			"department": "Управление качеством, стандартизация и метрология",
 			"qualification": "Инженер-механик"
 		},
 		{
@@ -1225,6 +1377,16 @@
 			"faculty": "Механико-технологический факультет",
 			"department": "Машиностроение и материаловедение",
 			"qualification": "Инженер-механик исследователь"
+		},
+		{
+			"photo": "",
+			"name": "Козлов Алексей Владимирович",
+			"post": "Ассистент",
+			"phone": "(4832) 58-82-26",
+			"email": "kozlov.alexx7@yandex.ru",
+			"faculty": "Механико-технологический факультет",
+			"department": "Физическое воспитание и спорт",
+			"qualification": "Инженер"
 		},
 		{
 			"photo": "https://www.tu-bryansk.ru/upload/main/33c/Козлова Л.Н. Kozlova.jpg",
@@ -1323,6 +1485,16 @@
 			"faculty": "Учебно-научный институт транспорта",
 			"department": "Производство и сервис в транспортном машиностроении",
 			"qualification": "1.Инженер; 2.Экономист-менеджер; 3.Магистр"
+		},
+		{
+			"photo": "https://www.tu-bryansk.ru/upload/main/45b/krahmalev.jpg",
+			"name": "Крахмалев Олег Николаевич",
+			"post": "Профессор",
+			"phone": "(4832) 58-82-85",
+			"email": "olegkr64@mail.ru",
+			"faculty": "Учебно-научный технологический институт",
+			"department": "Автоматизированные технологические системы",
+			"qualification": "Инженер-механик исследователь"
 		},
 		{
 			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/7da/232_290_1/Кузнецова.jpg",
@@ -1480,6 +1652,16 @@
 			"qualification": "Специалист по защите информации"
 		},
 		{
+			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/19b/232_290_1/malyukina.jpg",
+			"name": "Лексикова Ангелина Юрьевна",
+			"post": "Ассистент",
+			"phone": "(4832) 58-83-54",
+			"email": "Angelina-L92@yandex.ru",
+			"faculty": "Факультет информационных технологий",
+			"department": "Системы информационной безопасности",
+			"qualification": "1.Экономист; 2.Магистр"
+		},
+		{
 			"photo": "https://www.tu-bryansk.ru/upload/main/685/leonovyua.jpg",
 			"name": "Леонов Юрий Алексеевич",
 			"post": "Доцент",
@@ -1517,6 +1699,16 @@
 			"faculty": "Факультет отраслевой и цифровой экономики",
 			"department": "Отраслевая экономика и управление",
 			"qualification": "1. Экономист-менеджер; 2. Магистр"
+		},
+		{
+			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/f74/232_290_1/lozbinev.jpg",
+			"name": "Лозбинев Федор Юрьевич",
+			"post": "Профессор",
+			"phone": "(4832) 56-49-90",
+			"email": "flozbinev@yandex.ru",
+			"faculty": "Учебно-научный институт транспорта",
+			"department": "Высокотехнологичное транспортное машиностроение",
+			"qualification": "Инженер-механик"
 		},
 		{
 			"photo": "",
@@ -1584,7 +1776,8 @@
 			"post": "Руководитель учебного дизайн-центра \"РИиРИЭКБ\", заведующий кафедрой, доцент",
 			"phone": "(4832) 56-36-02",
 			"email": "malakhan@yandex.ru",
-			"department": "-",
+			"faculty": "Факультет энергетики и электроники",
+			"department": "Электронные, радиоэлектронные и электротехнические системы",
 			"qualification": "Инженер"
 		},
 		{
@@ -1687,12 +1880,23 @@
 			"qualification": "Учитель физики"
 		},
 		{
+			"photo": "",
+			"name": "Машкова Елена Валерьевна",
+			"post": "Старший преподаватель",
+			"phone": "(4832) 58-82-67",
+			"email": "zamggppk@yandex.ru",
+			"faculty": "Факультет отраслевой и цифровой экономики",
+			"department": "Гуманитарные и социальные дисциплины",
+			"qualification": "Учитель истории и обществознания, методист по воспитательной работе"
+		},
+		{
 			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/2fa/232_290_1/Медведев ИИ - на сайт.jpg",
 			"name": "Медведев Игорь Иванович",
 			"post": "Доцент",
 			"phone": "(4832) 58-82-76",
 			"email": "medigor@mail.ru",
-			"department": "-",
+			"faculty": "Факультет энергетики и электроники",
+			"department": "Электронные, радиоэлектронные и электротехнические системы",
 			"qualification": "Радиоинженер"
 		},
 		{
@@ -1701,8 +1905,19 @@
 			"post": "Доцент, старший научный сотрудник",
 			"phone": "(4832) 58-82-85",
 			"email": "dm17rj@yandex.ru",
-			"department": "-",
+			"faculty": "Факультет энергетики и электроники",
+			"department": "Электронные, радиоэлектронные и электротехнические системы",
 			"qualification": "Бакалавр техники и технологии; магистр техники и технологии"
+		},
+		{
+			"photo": "",
+			"name": "Минина Светлана Владимировна",
+			"post": "Доцент",
+			"phone": "(4832) 58-83-54",
+			"email": "s_minina@mail.ru",
+			"faculty": "Факультет информационных технологий",
+			"department": "Системы информационной безопасности",
+			"qualification": "Учитель немецкого и английского языков"
 		},
 		{
 			"photo": "https://www.tu-bryansk.ru/upload/main/426/mitina.jpg",
@@ -1713,6 +1928,15 @@
 			"faculty": "Факультет отраслевой и цифровой экономики",
 			"department": "Иностранные языки",
 			"qualification": "Учитель английского и русского языка"
+		},
+		{
+			"photo": "",
+			"name": "Михайлов Александр Валерьевич",
+			"post": "Преподаватель",
+			"phone": "(4832) 51-58-97",
+			"email": "bryansk.michailov@outlook.com",
+			"department": "Политехнический колледж",
+			"qualification": "Бакалавр"
 		},
 		{
 			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/2fd/232_290_1/Mihaleva_OA.jpg",
@@ -1798,7 +2022,8 @@
 			"post": "Доцент",
 			"phone": "(4832) 69-35-29",
 			"email": "irisensata@mail.ru",
-			"department": "-",
+			"faculty": "Факультет энергетики и электроники",
+			"department": "Электронные, радиоэлектронные и электротехнические системы",
 			"qualification": "Инженер электронной техники"
 		},
 		{
@@ -1873,7 +2098,7 @@
 		{
 			"photo": "https://www.tu-bryansk.ru/upload/main/a6d/nozdrina.jpg",
 			"name": "Ноздрина Наталья Александровна",
-			"post": "Доцент",
+			"post": "Профессор",
 			"phone": "(4832) 58-82-67",
 			"email": "nozdrina.natalye@mail.ru",
 			"faculty": "Факультет отраслевой и цифровой экономики",
@@ -1977,6 +2202,16 @@
 			"faculty": "Учебно-научный технологический институт",
 			"department": "Автоматизированные технологические системы",
 			"qualification": "Инженер-электромеханик"
+		},
+		{
+			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/ad8/232_290_1/petrukhina.jpg",
+			"name": "Петрухина Наталья Викторовна",
+			"post": "Доцент",
+			"phone": "(4832) 68-89-54",
+			"email": "natalia_petr@mail.ru",
+			"faculty": "Факультет отраслевой и цифровой экономики",
+			"department": "Отраслевая экономика и управление",
+			"qualification": "1. Юрист; 2. Экономист-менеджер"
 		},
 		{
 			"photo": "https://www.tu-bryansk.ru/upload/main/4d4/pilyushina.jpg",
@@ -2636,6 +2871,16 @@
 			"qualification": "Инженер-электрик"
 		},
 		{
+			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/f7b/232_290_1/Фото Трошин-1.jpg",
+			"name": "Трошин Владислав Павлович",
+			"post": "Профессор",
+			"phone": "(4832) 58-82-34",
+			"email": "vptbr32@yandex.ru",
+			"faculty": "Механико-технологический факультет",
+			"department": "Техносферная безопасность",
+			"qualification": "Врач"
+		},
+		{
 			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/831/232_290_1/Trubakov_EO.jpg",
 			"name": "Трубаков Евгений Олегович",
 			"post": "Доцент",
@@ -2740,7 +2985,8 @@
 			"post": "Профессор",
 			"phone": "(4832) 58-82-33",
 			"email": "galina-fed@yandex.ru",
-			"department": "-",
+			"faculty": "Факультет энергетики и электроники",
+			"department": "Электронные, радиоэлектронные и электротехнические системы",
 			"qualification": "Инженер-электромеханик"
 		},
 		{
@@ -3055,7 +3301,8 @@
 			"post": "Научный сотрудник, доцент",
 			"phone": "(4832) 58-82-33",
 			"email": "uxe@yandex.ru",
-			"department": "-",
+			"faculty": "Факультет энергетики и электроники",
+			"department": "Электронные, радиоэлектронные и электротехнические системы",
 			"qualification": "Инженер"
 		},
 		{
@@ -3121,7 +3368,7 @@
 		{
 			"photo": "",
 			"name": "Язвенко Николай Александрович",
-			"post": "Ассистент",
+			"post": "Старший преподаватель",
 			"phone": "(4832) 58-80-06",
 			"email": "gerash-tatyana@yandex.ru",
 			"faculty": "Факультет отраслевой и цифровой экономики",
@@ -3132,225 +3379,9 @@
 			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/414/232_290_1/glebov.jpg",
 			"name": "Глебов Глеб Владимирович",
 			"post": "Проректор по АХР",
-			"phone": "(4832) 58-82-89",
-			"email": "taiga78@list.ru",
-			"faculty": "Учебно-научный технологический институт",
-			"department": "Металлорежущие станки и инструменты",
-			"qualification": "Бакалавр техники и технологии; магистр техники и технологии"
-		},
-		{
-			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/d7e/a9q5svvkybickgcfk46c34sttj3keuuh/232_290_1/photo_2024-09-13_12-40-26.jpg",
-			"name": "Азаркин Александр Александрович",
-			"post": "Преподаватель",
-			"phone": "(4832) 51-58-97",
-			"email": "jarret@mail.ru",
-			"department": "Политехнический колледж",
-			"qualification": "Инженер"
-		},
-		{
-			"photo": "https://www.tu-bryansk.ru/upload/main/efd/alduhov.jpg",
-			"name": "Алдюхов Владимир Александрович",
-			"post": "Доцент",
-			"phone": "(4832) 58-86-37",
-			"email": "AlduhovVA.BSTU@ya.ru",
-			"faculty": "Учебно-научный институт транспорта",
-			"department": "Производство и сервис в транспортном машиностроении",
-			"qualification": "Инженер-механик исследователь"
-		},
-		{
-			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/ca3/232_290_1/brundasov.jpg",
-			"name": "Брундасов Сергей Михайлович",
-			"post": "Доцент",
-			"phone": "8-952-966-49-78",
-			"email": "brundasov@yandex.ru",
-			"faculty": "Факультет информационных технологий",
-			"department": "Информатика и программное обеспечение",
-			"qualification": "Инженер"
-		},
-		{
-			"photo": "",
-			"name": "Бухтеева Ольга Алексеевна",
-			"post": "Преподаватель",
-			"phone": "(4832) 51-58-97",
-			"email": "ahistrahia1@yandex.ru",
-			"department": "Политехнический колледж",
-			"qualification": "Учитель русского языка и литературы"
-		},
-		{
-			"photo": "",
-			"name": "Галушко Дмитрий Вячеславович",
-			"post": "Доцент",
-			"phone": "(4832) 58-84-04",
-			"email": "yurist2@bryanskoblfin.ru",
-			"faculty": "Факультет отраслевой и цифровой экономики",
-			"department": "Отраслевая экономика и управление",
-			"qualification": "1. Экономист; 2. Юрист"
-		},
-		{
-			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/550/232_290_1/Гегерь 11.jpg",
-			"name": "Гегерь Эмилия Владимировна",
-			"post": "Профессор",
-			"phone": "(4832) 58-82-34",
-			"email": "emiliay_geger@mail.ru",
-			"faculty": "Механико-технологический факультет",
-			"department": "Техносферная безопасность",
-			"qualification": "Инженер-строитель"
-		},
-		{
-			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/fda/px4hs2wrrfi43xiyijohihnyxtvt2cwp/232_290_1/Громов.JPG",
-			"name": "Громов Юрий Юрьевич",
-			"post": "Профессор",
-			"phone": "(4832) 58-83-54",
-			"email": "gromovtambov@yandex.ru",
-			"faculty": "Факультет информационных технологий",
-			"department": "Системы информационной безопасности",
-			"qualification": "инженер по автоматизации"
-		},
-		{
-			"photo": "",
-			"name": "Гузеев Андрей Николаевич",
-			"post": "Преподаватель",
-			"phone": "(4832) 51-58-97",
-			"email": "370343@list.ru",
-			"department": "Политехнический колледж",
-			"qualification": "Инженер"
-		},
-		{
-			"photo": "",
-			"name": "Гуров Роман Владимирович",
-			"post": "Профессор",
-			"phone": "(4832) 58-82-89",
-			"email": "gurovmsi@mail.ru",
-			"faculty": "Учебно-научный технологический институт",
-			"department": "Металлорежущие станки и инструменты",
-			"qualification": "Инженер-механик"
-		},
-		{
-			"photo": "",
-			"name": "Добровольский Герман Игоревич",
-			"post": "Доцент",
-			"phone": "(4832) 58-82-89",
-			"email": "germanmsi@mail.ru",
-			"faculty": "Учебно-научный технологический институт",
-			"department": "Металлорежущие станки и инструменты",
-			"qualification": "Инженер-механик"
-		},
-		{
-			"photo": "",
-			"name": "Жигало Владимир Яковлевич",
-			"post": "Доцент",
-			"phone": "-",
-			"email": "zhigalo@icloud.com",
-			"faculty": "Механико-технологический факультет",
-			"department": "Физическое воспитание и спорт",
-			"qualification": "Преподаватель физического воспитания"
-		},
-		{
-			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/509/232_290_1/Захаров_2018.jpg",
-			"name": "Захаров Александр Евгеньевич",
-			"post": "Доцент",
-			"phone": "(4832) 58-82-85",
-			"email": "1csoft@bk.ru",
-			"faculty": "Учебно-научный технологический институт",
-			"department": "Автоматизированные технологические системы",
-			"qualification": "Инженер-электромеханик"
-		},
-		{
-			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/20e/232_290_1/Кареев Р В.jpg",
-			"name": "Кареев Руслан Васильевич",
-			"post": "Доцент",
-			"phone": "(4832) 58-82-34",
-			"email": "kareev_r@mail.ru",
-			"faculty": "Механико-технологический факультет",
-			"department": "Техносферная безопасность",
-			"qualification": "Инженер-механик"
-		},
-		{
-			"photo": "",
-			"name": "Кипень Ирина Степановна",
-			"post": "Доцент",
-			"phone": "-",
-			"email": "kipen69@mail.ru",
-			"faculty": "Факультет информационных технологий",
-			"department": "Высшая математика",
-			"qualification": "Учитель математики и информатики"
-		},
-		{
-			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/c80/232_290_1/Клепинин Борис Николаевич.jpg",
-			"name": "Клепинин Борис Николаевич",
-			"post": "Доцент",
-			"phone": "(4832) 58-82-35",
-			"email": "klepinin.boris@yandex.ru",
-			"faculty": "Механико-технологический факультет",
-			"department": "Управление качеством, стандартизация и метрология",
-			"qualification": "Инженер-механик"
-		},
-		{
-			"photo": "",
-			"name": "Козлов Алексей Владимирович",
-			"post": "Ассистент",
-			"phone": "(4832) 58-82-26",
-			"email": "kozlov.alexx7@yandex.ru",
-			"faculty": "Механико-технологический факультет",
-			"department": "Физическое воспитание и спорт",
-			"qualification": "Инженер"
-		},
-		{
-			"photo": "https://www.tu-bryansk.ru/upload/main/45b/krahmalev.jpg",
-			"name": "Крахмалев Олег Николаевич",
-			"post": "Профессор",
-			"phone": "(4832) 58-82-85",
-			"email": "olegkr64@mail.ru",
-			"faculty": "Учебно-научный технологический институт",
-			"department": "Автоматизированные технологические системы",
-			"qualification": "Инженер-механик исследователь"
-		},
-		{
-			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/19b/232_290_1/malyukina.jpg",
-			"name": "Лексикова Ангелина Юрьевна",
-			"post": "Ассистент",
-			"phone": "(4832) 58-83-54",
-			"email": "Angelina-L92@yandex.ru",
-			"faculty": "Факультет информационных технологий",
-			"department": "Системы информационной безопасности",
-			"qualification": "1.Экономист; 2.Магистр"
-		},
-		{
-			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/f74/232_290_1/lozbinev.jpg",
-			"name": "Лозбинев Федор Юрьевич",
-			"post": "Профессор",
-			"phone": "(4832) 56-49-90",
-			"email": "flozbinev@yandex.ru",
-			"faculty": "Учебно-научный институт транспорта",
-			"department": "Высокотехнологичное транспортное машиностроение",
-			"qualification": "Инженер-механик"
-		},
-		{
-			"photo": "",
-			"name": "Машкова Елена Валерьевна",
-			"post": "Старший преподаватель",
-			"phone": "(4832) 58-82-67",
-			"email": "zamggppk@yandex.ru",
-			"faculty": "Факультет отраслевой и цифровой экономики",
-			"department": "Гуманитарные и социальные дисциплины",
-			"qualification": "Учитель истории и обществознания, методист по воспитательной работе"
-		},
-		{
-			"photo": "",
-			"name": "Минина Светлана Владимировна",
-			"post": "Доцент",
-			"phone": "(4832) 58-83-54",
-			"email": "s_minina@mail.ru",
-			"faculty": "Факультет информационных технологий",
-			"department": "Системы информационной безопасности",
-			"qualification": "Учитель немецкого и английского языков"
-		},
-		{
-			"photo": "",
-			"name": "Михайлов Александр Валерьевич",
-			"post": "Преподаватель",
 			"phone": "(4832) 51-58-97",
 			"email": "bryansk.michailov@outlook.com",
+			"faculty": "Факультет информационных технологий",
 			"department": "Политехнический колледж",
 			"qualification": "Бакалавр"
 		},
@@ -3404,16 +3435,6 @@
 		{
 			"photo": "",
 			"name": "Петраков Дмитрий Иванович",
-			"post": "Доцент",
-			"phone": "(4832) 56-02-61",
-			"email": "petrakovdi@ukbmz.ru",
-			"faculty": "Учебно-научный институт транспорта",
-			"department": "Высокотехнологичное транспортное машиностроение",
-			"qualification": "Инженер путей сообщения"
-		},
-		{
-			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/ad8/232_290_1/petrukhina.jpg",
-			"name": "Петрухина Наталья Викторовна",
 			"post": "Доцент",
 			"phone": "(4832) 68-89-54",
 			"email": "natalia_petr@mail.ru",
@@ -3491,20 +3512,11 @@
 			"photo": "",
 			"name": "Токарев Алексей Сергеевич",
 			"post": "Преподаватель",
-			"phone": "(4832) 51-58-97",
-			"email": "tokarev@gkmp32.com",
-			"department": "Политехнический колледж",
-			"qualification": "Инженер"
-		},
-		{
-			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/f7b/232_290_1/Фото Трошин-1.jpg",
-			"name": "Трошин Владислав Павлович",
-			"post": "Профессор",
 			"phone": "(4832) 58-82-34",
 			"email": "vptbr32@yandex.ru",
-			"faculty": "Механико-технологический факультет",
 			"department": "Техносферная безопасность",
-			"qualification": "Врач"
+			"qualification": "Врач",
+			"faculty": "Механико-технологический факультет"
 		},
 		{
 			"photo": "",
