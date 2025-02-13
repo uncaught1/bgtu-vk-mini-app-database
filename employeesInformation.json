@@ -1,5 +1,5 @@
 {
-	"lastUpdate": "2025-02-09T11:20:21.067Z",
+	"lastUpdate": "2025-02-13T11:04:33.664Z",
 	"employees": [
 		{
 			"photo": "",
@@ -107,11 +107,11 @@
 			"qualification": "Учитель математики и физики"
 		},
 		{
-			"photo": "https://www.tu-bryansk.ru/upload/main/39a/andrianovai.jpg",
+			"photo": "",
 			"name": "Андриянов Алексей Иванович",
 			"post": "Профессор",
 			"phone": "(4832) 58-82-33",
-			"email": "ahaos@mail.ru",
+			"email": "epu.ims@mail.ru",
 			"faculty": "Факультет энергетики и электроники",
 			"department": "Электронные, радиоэлектронные и электротехнические системы",
 			"qualification": "Инженер"
@@ -147,7 +147,7 @@
 			"qualification": "Инженер-механик"
 		},
 		{
-			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/74e/232_290_1/antipin.jpg",
+			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/3e2/kicguzbj8s1315jxdazxlksm9ose27n0/232_290_1/antipin_dy.jpg",
 			"name": "Антипин Дмитрий Яковлевич",
 			"post": "Директор УНИТ, доцент, Директор инжинирингового центра в области высокотехнологичного машиностроения \"HIGH-TECH ENGINEERING\"",
 			"phone": "(4832) 56-04-66",
@@ -292,7 +292,7 @@
 			"qualification": "Инженер-механик исследователь"
 		},
 		{
-			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/430/232_290_1/bespalov.jpg",
+			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/b9a/2rq7mxgsyoyfyyv4e9symz415fe0jc5u/232_290_1/bespalov_va.jpg",
 			"name": "Беспалов Виталий Александрович",
 			"post": "доцент, начальник управления цифровизации",
 			"phone": "(4832) 51-14-22",
@@ -577,7 +577,7 @@
 			"qualification": "Учитель английского и немецкого языков"
 		},
 		{
-			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/ebe/232_290_1/vysotski.jpg",
+			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/295/rlqifg8abkui4o7k7gwh7xdu860wr06z/232_290_1/vysotsky_am.jpg",
 			"name": "Высоцкий Андрей Михайлович",
 			"post": "Начальник УППиНА, Старший преподаватель",
 			"phone": "(4832) 51-03-57",
@@ -617,7 +617,7 @@
 			"qualification": "Инженер-строитель"
 		},
 		{
-			"photo": "https://www.tu-bryansk.ru/upload/main/6e1/geraschenkova.jpg",
+			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/c7b/hx9cy4d8tqc98qg66wp4ou5d61j1m3h2/232_290_1/geraschenkova_tm.jpg",
 			"name": "Геращенкова Татьяна Михайловна",
 			"post": "Проректор по качеству и аккредитации, профессор",
 			"phone": "(4832) 58-80-06",
@@ -675,7 +675,7 @@
 			"qualification": "Инженер-механик исследователь"
 		},
 		{
-			"photo": "",
+			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/ac4/ct5p6euj1jjvmio2rw0t4zpfq03bpsix/232_290_1/gorbatkova_ga.jpg",
 			"name": "Горбаткова Галина Анатольевна",
 			"post": "Начальник учебно-методического управления, доцент",
 			"phone": "-",
@@ -695,7 +695,7 @@
 			"qualification": "Инженер-механик"
 		},
 		{
-			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/382/040he28c0yv6ceixc7n0i0indnwsn7m9/232_290_1/DSC_4910 (1).jpg",
+			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/d36/4yxn2xmc1k7a7bdvp5dwurm5faoukifb/232_290_1/gorlov_ap.jpg",
 			"name": "Горлов Алексей Петрович",
 			"post": "Декан ФИТ, доцент",
 			"phone": "(4832) 58-83-54",
@@ -822,7 +822,7 @@
 			"qualification": "Инженер-механик"
 		},
 		{
-			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/2fa/232_290_1/dadykin.jpg",
+			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/bdc/vwyr3xtx8pfwfh10jd1da3anv5sosgyc/232_290_1/dadykin_vs.jpg",
 			"name": "Дадыкин Валерий Сергеевич",
 			"post": "Декан ФОЦЭ, профессор",
 			"phone": "4832) 58-82-76",
@@ -1211,7 +1211,7 @@
 			"qualification": "Бакалавр; магистр"
 		},
 		{
-			"photo": "https://www.tu-bryansk.ru/upload/main/d8a/kalininaea.jpg",
+			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/07a/ypeim811z2w84yuthv75cklf7b4ctkiq/232_290_1/kalinina_ea.jpg",
 			"name": "Калинина Екатерина Александровна",
 			"post": "Доцент, начальник отдела лицензирования и аккредитации",
 			"phone": "(4832) 58-82-76",
@@ -1319,7 +1319,7 @@
 			"qualification": "Учитель математики и информатики"
 		},
 		{
-			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/744/232_290_1/kirichek.jpg",
+			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/7de/zldx018ozzkznp5ucly5a9p83etvj825/232_290_1/kirichek_av.jpg",
 			"name": "Киричек Андрей Викторович",
 			"post": "Главный научный сотрудник, Проректор по перспективному развитию",
 			"phone": "(4832) 51-51-38, (4832) 58-83-50",
@@ -1771,7 +1771,7 @@
 			"qualification": "Инженер-электрик"
 		},
 		{
-			"photo": "https://www.tu-bryansk.ru/upload/main/0b0/malahanov.jpg",
+			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/4a9/s4o3fgj10h0d17zvbqqctxe9y4iazh07/232_290_1/malakhanov_aa.jpg",
 			"name": "Малаханов Алексей Алексеевич",
 			"post": "Руководитель учебного дизайн-центра \"РИиРИЭКБ\", заведующий кафедрой, доцент",
 			"phone": "(4832) 56-36-02",
@@ -1811,7 +1811,7 @@
 			"qualification": "Инженер"
 		},
 		{
-			"photo": "https://www.tu-bryansk.ru/upload/main/648/manueva.jpg",
+			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/348/0cphvyo9jl9sbjhkvag1lvvgiahe4u38/232_290_1/manueva_mv.jpg",
 			"name": "Мануева Марина Владимировна",
 			"post": "Доцент, начальник отдела сопровождения системы менеджмента качества",
 			"phone": "(4832) 56-02-61",
@@ -2194,7 +2194,7 @@
 			"qualification": "Инженер"
 		},
 		{
-			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/0a5/232_290_1/petreshin.jpg",
+			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/ffc/wkix4ybbizaxskumw3exh587x11yeqip/232_290_1/petreshin_di.jpg",
 			"name": "Петрешин Дмитрий Иванович",
 			"post": "Директор УНТИ, профессор",
 			"phone": "(4832) 56-14-75",
@@ -2264,7 +2264,7 @@
 			"qualification": "Бакалавр; магистр"
 		},
 		{
-			"photo": "https://www.tu-bryansk.ru/upload/main/2a8/polzik.jpg",
+			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/10b/uakregj2gajkpyuhzfc16pi6h6hseum3/232_290_1/polzik_sv.jpg",
 			"name": "Ползик Светлана Вячеславна",
 			"post": "Директор, преподаватель",
 			"phone": "(4832) 51-58-97",
@@ -2283,7 +2283,7 @@
 			"qualification": "Инженер-механик"
 		},
 		{
-			"photo": "https://www.tu-bryansk.ru/upload/main/c4a/ponomareva.jpg",
+			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/1a6/xkwzgnzj1majj1jmoj4gmge80m5fg1r0/232_290_1/ponomareva_ns.jpg",
 			"name": "Пономарева Наталья Сергеевна",
 			"post": "Директор Центра международного сотрудничества, доцент",
 			"phone": "(4832) 58-82-81",
@@ -2546,7 +2546,7 @@
 			"qualification": "Бакалавр"
 		},
 		{
-			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/4eb/232_290_1/simkin.jpg",
+			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/cba/i36eohcxpergb50lxgxb2frsez58relb/232_290_1/simkin_az.jpg",
 			"name": "Симкин Альберт Зямович",
 			"post": "Проректор по молодежной политике и воспитательной работе, доцент",
 			"phone": "(4832) 51-51-49",
@@ -2594,7 +2594,7 @@
 			"qualification": "Учитель немецкого и английского языка"
 		},
 		{
-			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/711/232_290_1/skantsev.jpg",
+			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/874/xirmwz87vr78riexojpv0d86uipdi89r/232_290_1/skantsev_vm.jpg",
 			"name": "Сканцев Виталий Михайлович",
 			"post": "Первый проректор, руководитель НО дизайн-центра \"СЭиИТ\", доцент",
 			"phone": "(4832) 510-356",
@@ -2613,7 +2613,7 @@
 			"qualification": "1. Инженер-механик исследователь; 2. Экономист-менеджер"
 		},
 		{
-			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/940/232_290_1/soldatov.jpg",
+			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/0b1/xjwak11b6e3q69o7prghowpbt3033q5b/232_290_1/soldatov_vg.jpg",
 			"name": "Солдатов Валерий Геннадьевич",
 			"post": "Декан МТФ, доцент",
 			"phone": "(4832) 58-82-18",
@@ -2931,7 +2931,7 @@
 			"qualification": "Учитель биологии и химии"
 		},
 		{
-			"photo": "https://www.tu-bryansk.ru/upload/main/e5c/ursegova.jpg",
+			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/b48/i0iro5nkc5ospdn80i8pgmhqz6bo3gam/232_290_1/ursegova_py.jpg",
 			"name": "Урсегова Полина Юрьевна",
 			"post": "Ассистент, начальник управления по воспитательной и социальной работе",
 			"phone": "(4832) 68-89-53",
@@ -2950,7 +2950,7 @@
 			"qualification": "учитель географии и биологии средней школы"
 		},
 		{
-			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/cd2/232_290_1/fedonin.jpg",
+			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/2ea/ejjam2ak8i82ldlnerxrg196yb9xr9jf/232_290_1/fedonin_on.jpg",
 			"name": "Федонин Олег Николаевич",
 			"post": "Ректор ФГБОУ ВО \"Брянский государственный технический университет\", профессор",
 			"phone": "(4832) 56-09-05",
@@ -3079,7 +3079,7 @@
 			"qualification": "Механик"
 		},
 		{
-			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/89f/232_290_1/khvostov.jpg",
+			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/2ef/xve0hhm7znj1mqid06o482fumjbi7nrb/232_290_1/khvostov_va.jpg",
 			"name": "Хвостов Вячеслав Алексеевич",
 			"post": "Декан ФЭЭ, доцент",
 			"phone": "(4832) 56-36-02",
@@ -3276,7 +3276,7 @@
 			"qualification": "Физик"
 		},
 		{
-			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/b00/232_290_1/shkaberin.jpg",
+			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/c75/p4x35zqzlkzdcfx11vdn7uze8itzq5xg/232_290_1/shkaberin_va.jpg",
 			"name": "Шкаберин Виталий Александрович",
 			"post": "Первый проректор по учебной работе и цифровизации, доцент",
 			"phone": "(4832) 56-25-09",
@@ -3376,7 +3376,7 @@
 			"qualification": "Экономист"
 		},
 		{
-			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/414/232_290_1/glebov.jpg",
+			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/6fd/ieautruezra2d2x9f89uczbyq6e7w5i4/232_290_1/glebov_gv.jpg",
 			"name": "Глебов Глеб Владимирович",
 			"post": "Проректор по АХР",
 			"phone": "(4832) 51-58-97",
