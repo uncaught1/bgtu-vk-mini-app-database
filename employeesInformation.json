@@ -1,5 +1,5 @@
 {
-	"lastUpdate": "2025-02-23T17:00:43.734Z",
+	"lastUpdate": "2025-03-02T14:30:16.008Z",
 	"employees": [
 		{
 			"photo": "",
@@ -1751,6 +1751,16 @@
 			"qualification": "Специалист по защите информации"
 		},
 		{
+			"photo": "",
+			"name": "Ляхова Оксана Николаевна",
+			"post": "Старший преподаватель",
+			"phone": "-",
+			"email": "oksana.lyahova32@yandex.ru",
+			"faculty": "Факультет отраслевой и цифровой экономики",
+			"department": "Гуманитарные и социальные дисциплины",
+			"qualification": "Инженер-технолог"
+		},
+		{
 			"photo": "https://www.tu-bryansk.ru/upload/main/0d1/makarenko.jpg",
 			"name": "Макаренко Константин Васильевич",
 			"post": "Заведующий кафедрой, профессор",
@@ -3284,16 +3294,6 @@
 			"faculty": "Факультет информационных технологий",
 			"department": "Компьютерные технологии и системы",
 			"qualification": "1. Инженер-механик; 2. Экономист"
-		},
-		{
-			"photo": "https://www.tu-bryansk.ru/upload/main/857/shkodin.jpg",
-			"name": "Шкодин Вячеслав Михайлович",
-			"post": "Старший преподаватель",
-			"phone": "(4832) 51-84-80",
-			"email": "shkodin45@mail.ru",
-			"faculty": "Факультет энергетики и электроники",
-			"department": "Турбиностроение и трубопроводные транспортные системы",
-			"qualification": "Инженер-механик"
 		},
 		{
 			"photo": "https://www.tu-bryansk.ru/upload/main/9a5/shkolinan.jpg",
