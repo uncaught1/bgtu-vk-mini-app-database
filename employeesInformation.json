@@ -1,5 +1,5 @@
 {
-	"lastUpdate": "2025-06-08T20:02:01.867Z",
+	"lastUpdate": "2025-06-12T10:06:23.863Z",
 	"employees": [
 		{
 			"photo": "",
@@ -351,16 +351,6 @@
 			"qualification": "Инженер-механик исследователь"
 		},
 		{
-			"photo": "",
-			"name": "Бондаренко Ольга Игоревна",
-			"post": "Доцент",
-			"phone": "(4832) 56-02-61",
-			"email": "oljapolushko54@gmail.com",
-			"faculty": "Учебно-научный институт транспорта",
-			"department": "Высокотехнологичное транспортное машиностроение",
-			"qualification": "1. Инженер путей сообщения; 2. Бакалавр"
-		},
-		{
 			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/c82/232_290_1/Фото Бондаренко.jpg",
 			"name": "Бондаренко Денис Андреевич",
 			"post": "врио зав.каф., доцент, к.т.н.",
@@ -369,6 +359,16 @@
 			"faculty": "Учебно-научный институт транспорта",
 			"department": "Производство и сервис в транспортном машиностроении",
 			"qualification": "1. Инженер путей сообщения; 2. Магистр"
+		},
+		{
+			"photo": "",
+			"name": "Бондаренко Ольга Игоревна",
+			"post": "Доцент",
+			"phone": "(4832) 56-02-61",
+			"email": "oljapolushko54@gmail.com",
+			"faculty": "Учебно-научный институт транспорта",
+			"department": "Высокотехнологичное транспортное машиностроение",
+			"qualification": "1. Инженер путей сообщения; 2. Бакалавр"
 		},
 		{
 			"photo": "https://www.tu-bryansk.ru/upload/main/8f1/borbact.jpg",
@@ -540,21 +540,21 @@
 		},
 		{
 			"photo": "",
-			"name": "Володина Юлия Викторовна",
-			"post": "Преподаватель",
-			"phone": "-",
-			"email": "gorbunova1717@yandex.ru",
-			"department": "Политехнический колледж",
-			"qualification": "Бакалавр"
-		},
-		{
-			"photo": "",
 			"name": "Володина Юлия Анатольевна",
 			"post": "Преподаватель",
 			"phone": "(4832) 51-58-97",
 			"email": "bel2019bel@ya.ru",
 			"department": "Политехнический колледж",
 			"qualification": "1.Педагог профессионального обучения, 2. Магистр"
+		},
+		{
+			"photo": "",
+			"name": "Володина Юлия Викторовна",
+			"post": "Преподаватель",
+			"phone": "-",
+			"email": "gorbunova1717@yandex.ru",
+			"department": "Политехнический колледж",
+			"qualification": "Бакалавр"
 		},
 		{
 			"photo": "",
@@ -1171,16 +1171,6 @@
 			"qualification": "Инженер"
 		},
 		{
-			"photo": "https://www.tu-bryansk.ru/upload/main/7cf/kazakovpv.jpg",
-			"name": "Казаков Павел Валерьевич",
-			"post": "Доцент",
-			"phone": "(4832) 56-49-90",
-			"email": "pvk_mail@list.ru",
-			"faculty": "Факультет информационных технологий",
-			"department": "Компьютерные технологии и системы",
-			"qualification": "Инженер"
-		},
-		{
 			"photo": "",
 			"name": "Казаков Юрий Михайлович",
 			"post": "Доцент",
@@ -1189,6 +1179,16 @@
 			"faculty": "Факультет информационных технологий",
 			"department": "Компьютерные технологии и системы",
 			"qualification": "Инженер-механик"
+		},
+		{
+			"photo": "https://www.tu-bryansk.ru/upload/main/7cf/kazakovpv.jpg",
+			"name": "Казаков Павел Валерьевич",
+			"post": "Доцент",
+			"phone": "(4832) 56-49-90",
+			"email": "pvk_mail@list.ru",
+			"faculty": "Факультет информационных технологий",
+			"department": "Компьютерные технологии и системы",
+			"qualification": "Инженер"
 		},
 		{
 			"photo": "https://www.tu-bryansk.ru/upload/main/669/kalenikova.jpg",
@@ -1261,21 +1261,21 @@
 			"qualification": "Преподаватель физической культуры, тренер по спорту"
 		},
 		{
-			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/20e/232_290_1/Кареев Р В.jpg",
-			"name": "Кареев Руслан Васильевич",
-			"post": "Доцент",
-			"phone": "(4832) 58-82-34",
-			"email": "kareev_r@mail.ru",
-			"faculty": "Механико-технологический факультет",
-			"department": "Техносферная безопасность",
-			"qualification": "Инженер-механик"
-		},
-		{
 			"photo": "https://www.tu-bryansk.ru/upload/main/d0a/kareevrr.jpg",
 			"name": "Кареев Руслан Русланович",
 			"post": "Доцент",
 			"phone": "(4832) 58-82-34",
 			"email": "r_kareev@mail.ru",
+			"faculty": "Механико-технологический факультет",
+			"department": "Техносферная безопасность",
+			"qualification": "Инженер-механик"
+		},
+		{
+			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/20e/232_290_1/Кареев Р В.jpg",
+			"name": "Кареев Руслан Васильевич",
+			"post": "Доцент",
+			"phone": "(4832) 58-82-34",
+			"email": "kareev_r@mail.ru",
 			"faculty": "Механико-технологический факультет",
 			"department": "Техносферная безопасность",
 			"qualification": "Инженер-механик"
