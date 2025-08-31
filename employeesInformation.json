@@ -1,5 +1,5 @@
 {
-	"lastUpdate": "2025-08-22T16:54:48.505Z",
+	"lastUpdate": "2025-08-31T15:00:02.943Z",
 	"employees": [
 		{
 			"photo": "",
@@ -589,15 +589,6 @@
 			"qualification": "Бакалавр; магистр"
 		},
 		{
-			"photo": "",
-			"name": "Голубова Марина Викторовна",
-			"post": "Преподаватель",
-			"phone": "-",
-			"email": "marina.golubova1997@mail.ru",
-			"department": "Политехнический колледж",
-			"qualification": "Бакалавр, магистр"
-		},
-		{
 			"photo": "https://www.tu-bryansk.ru/upload/main/f3c/gorbahuk.jpg",
 			"name": "Горбарчук Сергей Александрович",
 			"post": "Преподаватель",
@@ -637,16 +628,6 @@
 			"qualification": "Специалист по защите информации"
 		},
 		{
-			"photo": "https://www.tu-bryansk.ru/upload/main/67c/isaych.jpg",
-			"name": "Гоша Вероника Викторовна",
-			"post": "Доцент",
-			"phone": "(4832) 58-82-76",
-			"email": "alice.cissy@gmail.com",
-			"faculty": "Факультет отраслевой и цифровой экономики",
-			"department": "Отраслевая экономика и управление",
-			"qualification": "Экономист-менеджер"
-		},
-		{
 			"photo": "https://www.tu-bryansk.ru/upload/main/f83/grabegov.jpg",
 			"name": "Грабежов Илья Ефимович",
 			"post": "Старший преподаватель",
@@ -683,16 +664,6 @@
 			"faculty": "Факультет отраслевой и цифровой экономики",
 			"department": "Цифровая экономика",
 			"qualification": "Экономист по бухгалтерскому учету и финансам"
-		},
-		{
-			"photo": "https://www.tu-bryansk.ru/upload/main/da7/gryadunov.jpg",
-			"name": "Грядунов Сергей Семенович",
-			"post": "Доцент",
-			"phone": "(4832) 58-82-23",
-			"email": "grydunowcc@mail.ru",
-			"faculty": "Механико-технологический факультет",
-			"department": "Машиностроение и материаловедение",
-			"qualification": "Инженер-механик исследователь"
 		},
 		{
 			"photo": "https://www.tu-bryansk.ru/upload/main/8a6/gudina.jpg",
@@ -856,6 +827,16 @@
 		},
 		{
 			"photo": "",
+			"name": "Ефремов Дмитрий Александрович",
+			"post": "Ассистент",
+			"phone": "(4832) 58-82-06",
+			"email": "defrwork@gmail.com",
+			"faculty": "Факультет информационных технологий",
+			"department": "Компьютерные технологии и системы",
+			"qualification": "Бакалавр, магистр"
+		},
+		{
+			"photo": "",
 			"name": "Жемоедов Николай Александрович",
 			"post": "Доцент, старший научный сотрудник, начальник отдела",
 			"phone": "(4832) 58-82-27",
@@ -987,7 +968,7 @@
 			"photo": "",
 			"name": "Иванова Наталья Александровна",
 			"post": "доцент",
-			"phone": "-",
+			"phone": "(4832) 58-82-17",
 			"email": "ivanova_natala@mail.ru",
 			"faculty": "Факультет информационных технологий",
 			"department": "Информатика и программное обеспечение",
@@ -1044,16 +1025,6 @@
 			"qualification": "Инженер"
 		},
 		{
-			"photo": "",
-			"name": "Казаков Юрий Михайлович",
-			"post": "Доцент",
-			"phone": "(4832) 56-49-90",
-			"email": "kym2000@yandex.ru",
-			"faculty": "Факультет информационных технологий",
-			"department": "Компьютерные технологии и системы",
-			"qualification": "Инженер-механик"
-		},
-		{
 			"photo": "https://www.tu-bryansk.ru/upload/main/7cf/kazakovpv.jpg",
 			"name": "Казаков Павел Валерьевич",
 			"post": "Доцент",
@@ -1062,6 +1033,16 @@
 			"faculty": "Факультет информационных технологий",
 			"department": "Компьютерные технологии и системы",
 			"qualification": "Инженер"
+		},
+		{
+			"photo": "",
+			"name": "Казаков Юрий Михайлович",
+			"post": "Доцент",
+			"phone": "(4832) 56-49-90",
+			"email": "kym2000@yandex.ru",
+			"faculty": "Факультет информационных технологий",
+			"department": "Компьютерные технологии и системы",
+			"qualification": "Инженер-механик"
 		},
 		{
 			"photo": "https://www.tu-bryansk.ru/upload/main/669/kalenikova.jpg",
@@ -1271,16 +1252,6 @@
 			"qualification": "Инженер-механик"
 		},
 		{
-			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/9a7/232_290_1/Koptenok_EV_.jpg",
-			"name": "Коптенок Елизавета Викторовна",
-			"post": "Старший преподаватель",
-			"phone": "(4832) 58-82-17",
-			"email": "elizabeth-evans@yandex.ru",
-			"faculty": "Факультет информационных технологий",
-			"department": "Информатика и программное обеспечение",
-			"qualification": "1. Математик; 2. Магистр"
-		},
-		{
 			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/ac5/232_290_1/Korosteliev_DA.jpg",
 			"name": "Коростелев Дмитрий Александрович",
 			"post": "Доцент",
@@ -1289,15 +1260,6 @@
 			"faculty": "Факультет информационных технологий",
 			"department": "Информатика и программное обеспечение",
 			"qualification": "Инженер"
-		},
-		{
-			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/588/232_290_1/Косолапова Э.В..JPG",
-			"name": "Косолапова Элеонора Вадимовна",
-			"post": "Преподаватель",
-			"phone": "-",
-			"email": "elen2201@bk.ru",
-			"department": "Политехнический колледж",
-			"qualification": "Инженер-эколог"
 		},
 		{
 			"photo": "https://www.tu-bryansk.ru/upload/main/2ff/kotlyarova.jpg",
@@ -1502,16 +1464,6 @@
 			"email": "leshukiaroslav@yandex.ru",
 			"department": "Политехнический колледж",
 			"qualification": "Техник"
-		},
-		{
-			"photo": "https://www.tu-bryansk.ru/upload/main/cca/lobeeva.jpg",
-			"name": "Лобеева Вера Михайловна",
-			"post": "Профессор",
-			"phone": "(4832) 58-82-67",
-			"email": "doktor70@bk.ru",
-			"faculty": "Факультет отраслевой и цифровой экономики",
-			"department": "Гуманитарные и социальные дисциплины",
-			"qualification": "1. Учитель истории и обществоведения средней школы; 2. Преподаватель научного коммунизма"
 		},
 		{
 			"photo": "https://www.tu-bryansk.ru/upload/main/9ab/logvinovkv.jpg",
@@ -1761,6 +1713,16 @@
 			"faculty": "Факультет энергетики и электроники",
 			"department": "Электро-и теплоэнергетика",
 			"qualification": "Инженер"
+		},
+		{
+			"photo": "",
+			"name": "Музалевский Евгений Сергеевич",
+			"post": "Ассистент",
+			"phone": "(4832) 58-82-06",
+			"email": "muzalevskij.evgenij@mail.ru",
+			"faculty": "Факультет информационных технологий",
+			"department": "Компьютерные технологии и системы",
+			"qualification": "Специалист по защите информации"
 		},
 		{
 			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/f7d/232_290_1/Нагоркин Максим Николаевич.jpg",
@@ -2294,15 +2256,6 @@
 			"qualification": "Учитель математики и информатики"
 		},
 		{
-			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/43c/232_290_1/Сергеева Е.Г..JPG",
-			"name": "Сергеева Екатерина Геннадьевна",
-			"post": "Преподаватель",
-			"phone": "(4832) 51-58-97",
-			"email": "rewakat@yandex.ru",
-			"department": "Политехнический колледж",
-			"qualification": "Бакалавр"
-		},
-		{
 			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/cba/i36eohcxpergb50lxgxb2frsez58relb/232_290_1/simkin_az.jpg",
 			"name": "Симкин Альберт Зямович",
 			"post": "Проректор по молодежной политике и воспитательной работе, доцент",
@@ -2628,16 +2581,6 @@
 			"qualification": "Инженер-электрик"
 		},
 		{
-			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/f7b/232_290_1/Фото Трошин-1.jpg",
-			"name": "Трошин Владислав Павлович",
-			"post": "Профессор",
-			"phone": "(4832) 58-82-34",
-			"email": "vptbr32@yandex.ru",
-			"faculty": "Механико-технологический факультет",
-			"department": "Техносферная безопасность",
-			"qualification": "Врач"
-		},
-		{
 			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/831/232_290_1/Trubakov_EO.jpg",
 			"name": "Трубаков Евгений Олегович",
 			"post": "Доцент",
@@ -2856,7 +2799,7 @@
 			"qualification": "1. Учитель общетехнических дисциплин; 2. Магистр"
 		},
 		{
-			"photo": "https://www.tu-bryansk.ru/upload/main/544/tsareva.jpg",
+			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/267/nkd09l2nd799zp8dzexfb34u56h1d2wh/232_290_1/Царева Г.В. (Ин. яз.) MAX_6669-1.JPG",
 			"name": "Царева Галина Вячеславовна",
 			"post": "Заведующий кафедрой, доцент",
 			"phone": "(4832) 58-82-28",
@@ -2933,15 +2876,6 @@
 			"faculty": "Учебно-научный технологический институт",
 			"department": "Технология машиностроения",
 			"qualification": "Инженер-механик исследователь"
-		},
-		{
-			"photo": "",
-			"name": "Шелоп Екатерина Александровна",
-			"post": "Преподаватель",
-			"phone": "(4832) 51-58-97",
-			"email": "ekst21@mail.ru",
-			"department": "Политехнический колледж",
-			"qualification": "Педагог профессионального обучения"
 		},
 		{
 			"photo": "",
@@ -3086,11 +3020,11 @@
 			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/6fd/ieautruezra2d2x9f89uczbyq6e7w5i4/232_290_1/glebov_gv.jpg",
 			"name": "Глебов Глеб Владимирович",
 			"post": "Проректор по АХР",
-			"phone": "(4832) 58-82-34",
-			"email": "vptbr32@yandex.ru",
-			"faculty": "Механико-технологический факультет",
-			"department": "Техносферная безопасность",
-			"qualification": "Врач"
+			"phone": "(4832) 68-89-54",
+			"email": "natalia_petr@mail.ru",
+			"faculty": "Факультет отраслевой и цифровой экономики",
+			"department": "Отраслевая экономика и управление",
+			"qualification": "1. Юрист; 2. Экономист-менеджер"
 		}
 	]
 }
