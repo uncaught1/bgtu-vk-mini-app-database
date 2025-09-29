@@ -1,5 +1,5 @@
 {
-	"lastUpdate": "2025-09-24T15:10:14.605Z",
+	"lastUpdate": "2025-09-29T05:44:42.722Z",
 	"employees": [
 		{
 			"photo": "",
@@ -1494,6 +1494,16 @@
 			"faculty": "Факультет информационных технологий",
 			"department": "Системы информационной безопасности",
 			"qualification": "Специалист по защите информации"
+		},
+		{
+			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/19b/232_290_1/malyukina.jpg",
+			"name": "Лексикова Ангелина Юрьевна",
+			"post": "Ассистент",
+			"phone": "(4832) 58-83-54",
+			"email": "Angelina-L92@yandex.ru",
+			"faculty": "Факультет информационных технологий",
+			"department": "Системы информационной безопасности",
+			"qualification": "1.Экономист; 2.Магистр"
 		},
 		{
 			"photo": "https://www.tu-bryansk.ru/upload/main/685/leonovyua.jpg",
