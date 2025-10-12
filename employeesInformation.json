@@ -1,5 +1,5 @@
 {
-	"lastUpdate": "2025-10-08T15:42:12.674Z",
+	"lastUpdate": "2025-10-12T14:42:54.965Z",
 	"employees": [
 		{
 			"photo": "",
@@ -865,6 +865,16 @@
 			"qualification": "Инженер-механик исследователь"
 		},
 		{
+			"photo": "",
+			"name": "Евтух Григорий Евгеньевич",
+			"post": "Ассистент",
+			"phone": "-",
+			"email": "grishan32@mail.ru",
+			"faculty": "Факультет энергетики и электроники",
+			"department": "Турбиностроение и трубопроводные транспортные системы",
+			"qualification": "Магистр"
+		},
+		{
 			"photo": "https://www.tu-bryansk.ru/upload/main/e54/efimovagv.jpg",
 			"name": "Ефимова Галина Вячеславовна",
 			"post": "Доцент",
@@ -903,16 +913,6 @@
 			"faculty": "Учебно-научный институт транспорта",
 			"department": "Производство и сервис в транспортном машиностроении",
 			"qualification": "Инженер"
-		},
-		{
-			"photo": "",
-			"name": "Журавская Анастасия Викторовна",
-			"post": "Преподаватель",
-			"phone": "-",
-			"email": "nastya.zhuravskaya.95@mail.ru",
-			"faculty": "Факультет отраслевой и цифровой экономики",
-			"department": "Гуманитарные и социальные дисциплины",
-			"qualification": "Бакалавр, магистр"
 		},
 		{
 			"photo": "https://www.tu-bryansk.ru/upload/main/6e2/zabelin.jpg",
@@ -1072,6 +1072,16 @@
 			"faculty": "Факультет информационных технологий",
 			"department": "Информатика и программное обеспечение",
 			"qualification": "Инженер"
+		},
+		{
+			"photo": "",
+			"name": "Кадомская Юлия Марковна",
+			"post": "Старший преподаватель",
+			"phone": "-",
+			"email": "fom16@yandex.ru",
+			"faculty": "Факультет отраслевой и цифровой экономики",
+			"department": "Гуманитарные и социальные дисциплины",
+			"qualification": "-"
 		},
 		{
 			"photo": "",
@@ -1371,6 +1381,16 @@
 		},
 		{
 			"photo": "",
+			"name": "Кузьменко Наталья Петровна",
+			"post": "Ассистент",
+			"phone": "-",
+			"email": "n.kuzmenko95@yandex.ru",
+			"faculty": "Факультет информационных технологий",
+			"department": "Компьютерные технологии и системы",
+			"qualification": "Бакалавр"
+		},
+		{
+			"photo": "",
 			"name": "Кулешов Дмитрий Юрьевич",
 			"post": "Старший преподаватель",
 			"phone": "(4832) 58-83-23",
@@ -1583,6 +1603,16 @@
 			"faculty": "Механико-технологический факультет",
 			"department": "Машиностроение и материаловедение",
 			"qualification": "Инженер-механик"
+		},
+		{
+			"photo": "https://www.tu-bryansk.ru/upload/main/ecd/makarovgn.jpg",
+			"name": "Макаров Григорий Николаевич",
+			"post": "Старший преподаватель",
+			"phone": "(4832) 58-82-35",
+			"email": "makarov_g.n.89@mail.ru",
+			"faculty": "Факультет энергетики и электроники",
+			"department": "Турбиностроение и трубопроводные транспортные системы",
+			"qualification": "1. Инженер; 2. Магистр"
 		},
 		{
 			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/3f8/232_290_1/Маклаков.jpg",
@@ -2337,6 +2367,16 @@
 			"qualification": "Учитель математики и информатики"
 		},
 		{
+			"photo": "",
+			"name": "Сидоренкова Анастасия Игоревна",
+			"post": "Ассистент",
+			"phone": "-",
+			"email": "pump-keen@yandex.ru",
+			"faculty": "Учебно-научный технологический институт",
+			"department": "Технология машиностроения",
+			"qualification": "Магистр"
+		},
+		{
 			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/cba/i36eohcxpergb50lxgxb2frsez58relb/232_290_1/simkin_az.jpg",
 			"name": "Симкин Альберт Зямович",
 			"post": "Проректор по молодежной политике и воспитательной работе, доцент",
@@ -2345,6 +2385,16 @@
 			"faculty": "Механико-технологический факультет",
 			"department": "Управление качеством, стандартизация и метрология",
 			"qualification": "Инженер-механик"
+		},
+		{
+			"photo": "",
+			"name": "Симонов Александр Владимирович",
+			"post": "Ассистент",
+			"phone": "-",
+			"email": "007september@mail.ru",
+			"faculty": "Факультет энергетики и электроники",
+			"department": "Турбиностроение и трубопроводные транспортные системы",
+			"qualification": "Инженер"
 		},
 		{
 			"photo": "https://www.tu-bryansk.ru/upload/main/14c/simonyan.jpg",
@@ -2937,16 +2987,6 @@
 			"faculty": "Факультет энергетики и электроники",
 			"department": "Турбиностроение и трубопроводные транспортные системы",
 			"qualification": "Инженер"
-		},
-		{
-			"photo": "",
-			"name": "Шапенская Алина Михайловна",
-			"post": "Ассистент",
-			"phone": "(4832) 51-13-77",
-			"email": "alinashapenskaya2002@gmail.com",
-			"faculty": "Факультет информационных технологий",
-			"department": "Системы информационной безопасности",
-			"qualification": "Специалист по защите информации"
 		},
 		{
 			"photo": "https://www.tu-bryansk.ru/upload/main/140/shvyryaev.jpg",
