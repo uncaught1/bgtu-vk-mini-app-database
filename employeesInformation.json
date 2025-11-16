@@ -1,5 +1,5 @@
 {
-	"lastUpdate": "2025-11-10T09:00:34.994Z",
+	"lastUpdate": "2025-11-16T13:31:31.842Z",
 	"employees": [
 		{
 			"photo": "",
@@ -43,7 +43,7 @@
 		{
 			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/ffe/232_290_1/Фото Азаркиной Л.Г..jpg",
 			"name": "Азаркина Любовь Григорьевна",
-			"post": "Заместитель директора по научно-методической работе, преподаватель",
+			"post": "Заместитель директора по профориентационной работе и практической подготовке обучающихся, преподаватель",
 			"phone": "(4832) 51-58-97",
 			"email": "lyubov.azarkina@mail.ru",
 			"department": "Политехнический колледж",
@@ -1835,7 +1835,7 @@
 			"qualification": "Инженер"
 		},
 		{
-			"photo": "",
+			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/d8f/f1xqub4pi8y9e3s5wilsz43wp7m5vukz/232_290_1/Мартынова И.С. 1.jpg",
 			"name": "Мартынова Ия Сергеевна",
 			"post": "Старший преподаватель",
 			"phone": "(4832) 58-82-28",
@@ -2264,7 +2264,7 @@
 		{
 			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/10b/uakregj2gajkpyuhzfc16pi6h6hseum3/232_290_1/polzik_sv.jpg",
 			"name": "Ползик Светлана Вячеславна",
-			"post": "Директор, преподаватель",
+			"post": "Заместитель директора по научно- методической работе, преподаватель",
 			"phone": "(4832) 51-58-97",
 			"email": "spolzik@mail.ru",
 			"department": "Политехнический колледж",
