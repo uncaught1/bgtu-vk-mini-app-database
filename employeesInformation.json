@@ -1,5 +1,5 @@
 {
-	"lastUpdate": "2025-11-16T13:31:31.842Z",
+	"lastUpdate": "2025-11-30T17:30:14.800Z",
 	"employees": [
 		{
 			"photo": "",
@@ -616,6 +616,16 @@
 			"faculty": "Факультет отраслевой и цифровой экономики",
 			"department": "Гуманитарные и социальные дисциплины",
 			"qualification": "Инженер-механик"
+		},
+		{
+			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/550/232_290_1/Гегерь 11.jpg",
+			"name": "Гегерь Эмилия Владимировна",
+			"post": "Профессор",
+			"phone": "(4832) 58-82-34",
+			"email": "emiliay_geger@mail.ru",
+			"faculty": "Механико-технологический факультет",
+			"department": "Техносферная безопасность",
+			"qualification": "Инженер-строитель"
 		},
 		{
 			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/ee1/5zegk97vcfc7mfszs3ka01ol86q13be9/232_290_1/geraschenkova_tm.jpg",
@@ -1847,7 +1857,7 @@
 		{
 			"photo": "",
 			"name": "Маслов Максим Александрович",
-			"post": "Старший преподаватель",
+			"post": "Доцент",
 			"phone": "-",
 			"email": "maslovmaksim32@mail.ru",
 			"faculty": "Учебно-научный институт транспорта",
@@ -2125,7 +2135,7 @@
 		{
 			"photo": "",
 			"name": "Орехов Дмитрий Вячеславович",
-			"post": "Преподаватель",
+			"post": "Доцент",
 			"phone": "-",
 			"email": "odv2902@yandex.ru",
 			"faculty": "Факультет информационных технологий",
@@ -3391,11 +3401,11 @@
 			"photo": "",
 			"name": "Терешок Александр Алексеевич",
 			"post": "Ассистент",
-			"phone": "(4832) 58-82-32",
-			"email": "fokin.bgtu@yandex.ru",
-			"faculty": "Учебно-научный институт транспорта",
-			"department": "Высокотехнологичное транспортное машиностроение",
-			"qualification": "Инженер-механик"
+			"phone": "(4832) 58-82-34",
+			"email": "vptbr32@yandex.ru",
+			"faculty": "Механико-технологический факультет",
+			"department": "Техносферная безопасность",
+			"qualification": "Врач"
 		}
 	]
 }
