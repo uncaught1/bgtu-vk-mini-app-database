@@ -24,21 +24,37 @@ if (!$url) {
 // ===== запрос =====
 $ch = curl_init();
 curl_setopt_array($ch, [
-    CURLOPT_URL            => htmlspecialchars($url),
+    CURLOPT_URL            => $url, // htmlspecialchars УБРАЛ (он ломает URL)
     CURLOPT_HTTPHEADER     => $headers,
     CURLOPT_RETURNTRANSFER => true,
     CURLOPT_FOLLOWLOCATION => true,
+    CURLOPT_MAXREDIRS      => 5,
+
+    CURLOPT_CONNECTTIMEOUT => 10,
     CURLOPT_TIMEOUT        => $timeout,
+
     CURLOPT_ENCODING       => '',
+
+    // ❗ КРИТИЧНО для OpenWrt
+    CURLOPT_SSL_VERIFYPEER => false,
+    CURLOPT_SSL_VERIFYHOST => false,
+
+    // ❗ чтобы Cloudflare меньше ругался
+    CURLOPT_HTTP_VERSION   => CURL_HTTP_VERSION_1_1,
+
+    // ❗ иногда помогает
+    CURLOPT_IPRESOLVE      => CURL_IPRESOLVE_V4,
 ]);
 
 $response = curl_exec($ch);
+$error    = curl_error($ch);
 $httpCode = curl_getinfo($ch, CURLINFO_HTTP_CODE);
+
 curl_close($ch);
 
-if ($httpCode !== 200 || !$response) {
+if ($error || $httpCode !== 200 || !$response) {
     http_response_code(502);
-    die('fetch error');
+    die("fetch error: " . ($error ?: "HTTP $httpCode"));
 }
 
 // ===== decode =====
