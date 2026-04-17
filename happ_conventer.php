@@ -7,7 +7,6 @@ $headers = [
     'X-Device-Locale: ru',
     'X-Device-Model: ELP-NX1',
     'X-Ver-Os: 15',
-    'Accept-Encoding: gzip',
     'Connection: close',
     'X-Hwid: 74jf74nf8f4jr5je',
     'X-Real-Ip: 101.202.303.404',
